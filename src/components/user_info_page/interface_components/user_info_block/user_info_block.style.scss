@@ -1,0 +1,34 @@
+
+
+.user_info_block_wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.uib_wrap_avatar_and_pers_info {
+  display: flex;
+}
+
+.uib_avatar {
+  //flex: 1;
+}
+
+.uib_avatar_img {
+  width: 100%;
+  height: 100%;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.uib_pers_info {
+  //flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.uib_bio {
+  margin-top: 12px;
+
+
+}

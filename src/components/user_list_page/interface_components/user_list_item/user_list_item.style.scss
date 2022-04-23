@@ -1,0 +1,41 @@
+
+
+.user_list_item_block{
+  display: flex;
+  align-items: center;
+
+  padding: 12px;
+  border: 1px solid;
+  max-height: 100px;
+}
+
+.uli_avatar {
+  width: 60px;
+  height: 60px;
+
+}
+
+.uli_avatar_img {
+  width: 100%;
+  height: 100%;
+}
+
+.uli_username {
+  flex: 1;
+}
+
+.uli_username_text {
+
+}
+
+.uli_repos_count {
+
+}
+
+.uli_repos_count_label {
+
+}
+
+.uli_repos_count_value {
+
+}
